@@ -30,10 +30,18 @@
 				    text-decoration: none;
 				     }
 		    
-		   .wordke ul {
+.education ul{
+
 		    border: solid 1px black;
   		    padding: 30px;
-		    color:blue;
+		    color:green;
+		    font-size: 130%;
+		    }
+
+.wordke ul {
+		    border: solid 1px black;
+  		    padding: 30px;
+		    color:red;
 		    font-size: 130%;
 		    }
             
