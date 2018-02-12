@@ -11,8 +11,7 @@
                      .navigation{
 	                              height:50px;
 	                              background:lightgreen;
-			     	      border-style: solid;
-			     	      border-color: black;
+			     	     
                                 }
                     .navigation ul {
                                  list-style-type: none;
