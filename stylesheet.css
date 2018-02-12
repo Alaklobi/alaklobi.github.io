@@ -45,13 +45,23 @@
 		    color:#722222;
 		    font-size: 150%;
 		    font-style: italic;
-		    line-height: 1.8;
+		    
 	     }
+.education h1{
+	
+	font-family: 'Vast Shadow';
+	font-size: 18px;
+}
 
+.wordke h1 {
+	font-family: 'Vast Shadow';
+	font-size: 18px;
+}
 .wordke ul {
 		    border: solid 1px black;
   		    padding: 30px;
 		    color:red;
 		    font-size: 130%;
+	line-height: 1.8;
 		    }
             
