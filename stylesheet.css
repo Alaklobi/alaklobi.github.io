@@ -53,13 +53,12 @@
 
 .wordke h1 {
 	font-family: 'Vast Shadow';
-	font-size: 18px;
+	font-size: 2em;;
 }
 .wordke ul {
-		    border: solid 1px black;
-  		    padding: 30px;
-		    color:red;
-		    font-size: 130%;
-	line-height: 1.8;
+		    
+		    color:#722222;
+		    font-size: 150%;
+		    line-height: 1.8;
 		    }
             
