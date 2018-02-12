@@ -31,6 +31,12 @@
 				    text-decoration: none;
 				     }
 		    
+.img&name h1{
+		   text-align: center;
+		  
+	
+             }
+
 .education ul{
                     border-style: inset;
 		    border-color: green;
@@ -38,7 +44,7 @@
 		    color:#722222;
 		    font-size: 150%;
 		    font-style: italic;
-		    }
+	     }
 
 .wordke ul {
 		    border: solid 1px black;
