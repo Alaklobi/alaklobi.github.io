@@ -32,10 +32,11 @@
 		    
 .education ul{
 
-		    border: solid 1px #ed8507;
+		    border: solid 1px black;
   		    padding: 30px;
 		    color:#722222;
-		    font-size: 130%;
+		    font-size: 150%;
+		    font-style: italic;
 		    }
 
 .wordke ul {
