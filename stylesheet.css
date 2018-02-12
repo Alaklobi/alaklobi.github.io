@@ -65,4 +65,10 @@
 
 .Courses h1 {
            text-align: center;
-         }
+            }
+.Courses h2{
+
+           }
+.Courses ol{
+            line-height: 1.8;
+           }
