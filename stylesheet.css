@@ -31,7 +31,7 @@
 				     }
 		    
 .education ul{
-
+                    border-style: inset;
 		    border: solid 1px black;
   		    padding: 30px;
 		    color:#722222;
