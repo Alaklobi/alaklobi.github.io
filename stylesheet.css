@@ -75,10 +75,11 @@
 .courses h2{
            font-family: 'Belgrano';
 	   font-size: 30px;
-}
+
            }
 .courses  ol{
-             font-size: 100%;
+		    font-size: 150%;
+		line-height: 1.8;
            }
 /*  --------------------------------end of current cuorses page style-----------------------------------------------*/
 .digital h1 {
@@ -87,7 +88,7 @@
 	    font-size: 40px;
 }
 
-            }
+           
 .digital h2{
            font-family: 'Inknut Antiqua';
 	   font-size: 30px;
