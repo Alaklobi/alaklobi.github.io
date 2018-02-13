@@ -91,7 +91,11 @@
            font-family: 'Inknut Antiqua';
 	   font-size: 20px;
 }
-.digital p ol {
+.digital p  {
+	
+	color:#722222;
+	   }
+.digital ol  {
 	
 	color:#722222;
 	   }
