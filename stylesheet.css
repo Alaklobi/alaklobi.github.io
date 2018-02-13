@@ -35,7 +35,7 @@
 .name {
 		   text-align: center;
 		  font-family: 'Amita';
-	          font-size: 20px;
+	          font-size: 30px;
 	          color: #18252b;
 	
              }
@@ -65,13 +65,29 @@
 /*  --------------------------------end of body+ index page style-----------------------------------------------*/
 
 .Courses h1 {
-           text-align: center;
+            text-align: center;
 	    font-family: 'Belgrano';
+	    font-size: 30px;
+}
 
             }
 .Courses h2{
            font-family: 'Belgrano';
+	   font-size: 20px;
+}
            }
 .Courses ol{
             line-height: 1.8;
            }
+/*  --------------------------------end of current cuorses page style-----------------------------------------------*/
+.Courses h1 {
+            text-align: center;
+	    font-family: 'Belgrano';
+	    font-size: 30px;
+}
+
+            }
+.Courses h2{
+           font-family: 'Belgrano';
+	   font-size: 20px;
+}
