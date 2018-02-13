@@ -35,7 +35,7 @@
 .name {
 		   text-align: center;
 		  font-family: 'Amita';
-	          font-size: 30px;
+	          font-size: 40px;
 	          color: #18252b;
 	
              }
@@ -49,12 +49,12 @@
 .education h1{
 	
 	font-family: 'Vast Shadow';
-	font-size: 30px;
+	font-size: 40px;
 }
 
 .wordke h1 {
 	font-family: 'Vast Shadow';
-	font-size: 30px;;
+	font-size: 40px;;
 }
 .wordke ul {
 		    
@@ -76,7 +76,7 @@
 	   font-size: 20px;
 }
            }
-.Courses ol{
+.Courses ol li{
             line-height: 1.8;
            }
 /*  --------------------------------end of current cuorses page style-----------------------------------------------*/
@@ -92,13 +92,14 @@
 	   font-size: 30px;
 }
 .digital p1  {
-	font-weight: bold;
-	color:#722222;
+	      font-weight: bold;
+	      color:#722222;
+	      font-size: 20px;
 	   }
 .digital p2  {
-	
-	color:#722222;
+		font-size: 20px;
+	        color:#722222;
 .digital ol  {
-		
+		font-size: 20px;
 		color:#722222;
 	   }
