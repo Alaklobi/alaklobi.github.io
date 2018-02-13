@@ -34,9 +34,10 @@
 		    
 .name {
 		   text-align: center;
-		  font-family: 'Amita';
-	          font-size: 40px;
-	          color: #18252b;
+		   font-family: 'Amita';
+	           font-size: 40px;
+	           color: #18252b;
+		   text-transform: capitalize;
 	
              }
 
