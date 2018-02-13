@@ -65,19 +65,19 @@
 		    }
 /*  --------------------------------end of body+ index page style-----------------------------------------------*/
 
-.Courses h1 {
+.courses h1 {
             text-align: center;
 	    font-family: 'Belgrano';
 	    font-size: 40px;
 }
 
             }
-.Courses h2{
+.courses h2{
            font-family: 'Belgrano';
 	   font-size: 30px;
 }
            }
-.Courses  ul{
+.courses  ul{
             line-height: 1.8;
 	    font-size: 20px;
            }
