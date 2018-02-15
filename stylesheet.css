@@ -104,10 +104,10 @@
 .digital p1  {
 	      font-weight: bold;
 	      color:#722222;
-	      font-size: 18px;
+	      font-size: 20px;
 	   }
 .digital p2  {
-		font-size: 18px;
+		font-size: 120px;
 	        color:#722222;
 		}
 .digital ol  {
@@ -134,9 +134,9 @@
 .distance p1 {
 	      font-weight: bold;
 	      color:#722222;
-	      font-size: 18px;
+	      font-size: 20px;
 	   }
 .distance p2 {
-		font-size: 18px;
+		font-size: 20px;
 	        color:#722222;
             }
