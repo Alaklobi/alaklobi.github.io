@@ -63,9 +63,14 @@
 		    font-size: 150%;
 		    line-height: 1.8;
 		    }
-.wordke p {
+.info p {
 	text-align:center;
-			    font-size: 100%;
+       font-size: 100%;
+   	 background-color: #e7f3fe;
+    border-left: 6px solid #2196F3;
+}
+ {
+	
 
 }
 
