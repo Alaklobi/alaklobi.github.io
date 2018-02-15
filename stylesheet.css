@@ -114,6 +114,11 @@
 		font-size: 18px;
 		color:#722222;
 	   }
+.paragraph{
+	border-style: ridge;
+        border-color: black;
+	
+}
 /*  --------------------------------end of digital style-----------------------------------------------*/
 	
 .distance h1 {
