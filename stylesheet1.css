@@ -4,3 +4,7 @@
 			     	border-style: ridge;
 			     	border-color: #000000;
 }
+.text p {
+	text-align:left;
+       font-size: 120%;
+}
