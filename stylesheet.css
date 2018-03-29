@@ -141,3 +141,12 @@
 		font-size: 20px;
 	        color:#722222;
             }
+
+.text p  {
+	text-align:left;
+       font-size: 135%;
+}
+.text ul {
+	text-align:left;
+       font-size: 135%;
+}
