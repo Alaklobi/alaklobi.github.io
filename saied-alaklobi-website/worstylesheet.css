@@ -10,9 +10,7 @@ body, html {
    padding: 1px;
    background-image: url("https://alaklobi.github.io/saied-alaklobi-website/images/work.jpg");
 
-   -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+   background-repeat: no-repeat;
   background-size: cover;
 }
  .navigation{
