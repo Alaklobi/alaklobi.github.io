@@ -281,7 +281,7 @@ figure.slider figure figcaption {
 
   div.transbox1,div.transbox2 {
   
-margin: 10px;
+margin: 40px;
   }
  #rightcolumn {
   position: relative;
@@ -292,5 +292,8 @@ margin: 10px;
      height:70%;
     overflow:auto;
     }
-
+.close {
+   top: 90px;
+    left: 5px;
+	}
 }
