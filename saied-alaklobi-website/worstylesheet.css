@@ -11,11 +11,10 @@ body, html {
    background-image: url("https://alaklobi.github.io/saied-alaklobi-website/images/work.jpg");
    background-attachment: fixed;
 
-  background-position: center;
 
   background-repeat: no-repeat;
 
-background-size: cover;
+background-size: contain;
 }
  .navigation{
  position: -webkit-sticky;
