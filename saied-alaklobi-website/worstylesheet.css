@@ -1,6 +1,6 @@
 body, html {
 
-  height: 1050px;
+  height: 1060px;
 
   margin: 0;
 
@@ -10,8 +10,6 @@ body, html {
    padding: 1px;
    background-image: url("https://alaklobi.github.io/saied-alaklobi-website/images/work.jpg");
 
-
-  background-repeat: no-repeat;
     background-size: cover;
 }
  .navigation{
