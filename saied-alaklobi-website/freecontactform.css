@@ -39,7 +39,11 @@ padding:10px
 				    text-decoration: none;
 				     }
 
+.center{
+	float:left;
+margin: 10px 0px 0px 300px;
 
+}
 .freecontactform {
 width: 460px;
 font-family: arial;
