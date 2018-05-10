@@ -78,23 +78,10 @@ opacity: 0.7;
     opacity: 1.0;
     filter: alpha(opacity=100); /* For IE8 and earlier */
 }
-
-.publishing ul {
-	 color: #111;
-     font-size: 150%;
-	 line-height: 1.8;
-	}
-	.publishing h1 {
-	font-family: 'Vast Shadow';
-	font-size: 40px;;
-}	    
-.info p {
-	text-align:center;
-       font-size: 120%;
-   	 background-color: #e7f3fe;
-    border-left: 6px solid #2196F3;
-     color: #111;
-
+p{
+      color: #111;
+      font-size: 150%;
+      line-height: 1.8;
 }
 div.transbox {
   margin: 30px;
