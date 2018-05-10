@@ -1,13 +1,13 @@
 body, html {
 
-  height: 1800px;
+  height: 800px;
 
   margin: 0;
 
   font: 400 15px/1.8 "Lato", sans-serif;
 
   color: #777;
-padding-left:100px
+padding:10px
 }
  .navigation{
  position: -webkit-sticky;
