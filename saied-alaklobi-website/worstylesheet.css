@@ -62,7 +62,7 @@ width:350px;
 
 div.transbox1 p{
 color:black;
-
+font-size: 22px;;
 }
 
 div.transbox2 {
@@ -80,6 +80,7 @@ background-color: #CCD6DD;
 
 div.transbox2 p{
 color:black;
+	font-size: 22px;;
 
 }
 
@@ -102,7 +103,7 @@ h1 {
 
   div.transbox2 {
   
-  margin:15px;
+  margin:13px;
   }
 
 }
