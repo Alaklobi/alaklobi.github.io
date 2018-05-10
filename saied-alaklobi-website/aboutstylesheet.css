@@ -98,6 +98,8 @@ div.transbox ul {
   font-weight: bold;
   color: #000000;
 }
+
+
 .bgimg-3 {
 
   background-image: url("https://alaklobi.github.io/saied-alaklobi-website/images/adventure.jpg");
@@ -142,7 +144,10 @@ div.transbox ul {
 
 }
 
-
+.publishing h1 {
+	font-family: 'Vast Shadow';
+	font-size: 40px;;
+}	    
 
 h1 {
 
