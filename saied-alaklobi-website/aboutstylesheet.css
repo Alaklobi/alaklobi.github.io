@@ -79,13 +79,13 @@ opacity: 0.7;
     filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 p{
-     font-family: 'Vast Shadow';
+    font-family: 'Vollkorn';
 	font-size: 30px;;
       color: #111;
       line-height: 1.8;
 }
 div.transbox {
-  padding:10px;
+  padding:15px;
   margin: 30px;
   background-color: #CCD6DD;
   border: 1px solid black;
