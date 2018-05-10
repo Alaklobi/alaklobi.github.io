@@ -79,9 +79,9 @@ opacity: 0.7;
     filter: alpha(opacity=100); /* For IE8 and earlier */
 }
 p{
-
+     font-family: 'Vast Shadow';
+	font-size: 30px;;
       color: #111;
-      font-size: 150%;
       line-height: 1.8;
 }
 div.transbox {
