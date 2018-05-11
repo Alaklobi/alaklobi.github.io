@@ -114,7 +114,7 @@ h1 {
 @media (max-width:800px) {
 
    div.transbox2,div.transbox1  {
-  
+  width:335px;
   margin:5;
   
   }
