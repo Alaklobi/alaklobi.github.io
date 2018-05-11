@@ -113,8 +113,9 @@ h1 {
 /*Use a media query to add a break point at 800px:*/
 @media (max-width:800px) {
 
-  div.transbox2, div.transbox1 {
- margin: 20px 20px 20px 10px;
+   div.transbox2,div.transbox1  {
+  
+  margin:10px;
   
   }
 
